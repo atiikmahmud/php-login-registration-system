@@ -27,12 +27,12 @@
     </div>
     <div class="panel-body">
         <table class="table table-striped">
-            <th width="20%">Serial</th>
-            <th width="20%">Name</th>
-            <th width="20%">ID Number</th>
-            <th width="20%">Username</th>
-            <th width="20%">Email Address</th>
-            <th width="20%">Action</th>
+            <th width="5%">Serial</th>
+            <th width="15%">Name</th>
+            <th width="10%">ID Number</th>
+            <th width="10%">Username</th>
+            <th width="30%">Email Address</th>
+            <th width="5%">Action</th>
 
 <?php
     $user = new User();
